@@ -1,0 +1,18 @@
+Calling Method ::::
+
+1. URL : IP/PORT/NbfiSmsGateway/NBFISmsGateWayV1
+2. Method : POST
+3. Parameter Possition : Body > raw > text/xml
+4. Parameter format :
+
+<SMS_INFO>
+	<SMS_PARAM>
+		<URL>http://sms.sslwireless.com/pushapi/dynamic/server.php?</URL>
+		<msisdn>8801791709161</msisdn>
+		<sms>Developed by Roman.</sms>
+		<user>Cvcflbulk</user>
+		<pass>cvcfL@26@20</pass>
+		<sid>CVCFLbulkbng</sid>
+		<csmsid>88484</csmsid>
+	</SMS_PARAM>
+</SMS_INFO>
